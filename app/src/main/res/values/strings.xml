@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WeatherAppWithoutJetpack</string>
+    <string name="cloudy">Cloudy</string>
+    <string name="temperature">84°</string>
+    <string name="degree">°</string>
+    <string name="wind">Wind</string>
+    <string name="humidity">Humidity</string>
+    <string name="visibility">Visibility</string>
+    <string name="value_of_wind">23 m/h</string>
+    <string name="value_of_humidity">23%</string>
+    <string name="value_of_visibility">11 km</string>
+    <string name="description_of_weather">description of weather</string>
+</resources>
